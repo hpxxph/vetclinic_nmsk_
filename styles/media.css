@@ -10,13 +10,23 @@
 
     .nav-links {
         position: absolute;
-        background: #22daea;
+        /* background: #22daea; */
+        background: linear-gradient(rgba(141, 155, 209, 0.7),rgba(4,9,30,0.7));
         height: 100vh;
-        width: 250px;
+        width: 200px;
         top: 0;
         right: 0;
         text-align: left;
-        z-index: ;
+        z-index: 2;
+    }
+
+    nav .bx {
+        display: block;
+        color: #fff;
+        margin: 10px;
+        font-size: 40px;
+        cursor: pointer;
 
     }
+    
 }

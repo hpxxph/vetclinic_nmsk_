@@ -20,7 +20,7 @@ li {
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url();
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/back.jpeg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -42,6 +42,7 @@ li {
     display: inline-block;
     padding: 8px 12px;
     position: relative;
+    margin: 20px;
 }
 
 .nav-links ul li a {
@@ -95,9 +96,15 @@ li {
 }
 
 .hero-btn:hover {
-    border: 1px solid #22daea;
-    transition: 1s;
+    border: 2px solid #22daea;
+    background: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7));
+    transition: 2s;
 }
+
+/* nav .bx {
+    display: none;
+}  */
+
 
 
 
