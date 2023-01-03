@@ -1,5 +1,4 @@
 @import url(/aLotOff/vetclinic_proj/styles/variables.css);
-@import url(/aLotOff/vetclinic_proj/styles/media.css);
 
 * {
     margin: 0;
@@ -101,11 +100,46 @@ li {
     transition: 2s;
 }
 
-/* nav .bx {
+nav .bx {
     display: none;
-}  */
+} 
 
 
+@media(max-width: 700px) {
+
+    .text-box h1 {
+        font-size: 20px;
+    }
+
+    /* .nav-links ul li {
+        display: block;    
+    } */
+
+    .nav-links {
+        position: absolute;
+        background: #22daea;
+        /* background: linear-gradient(rgba(96, 121, 226, 0.7),rgba(9, 40, 162, 0.7)); */
+        height: 100vh;
+        width: 200px;
+        top: 0;
+        right: -200px;
+        text-align: left;
+        z-index: 2;
+    }
+
+    nav .bx {
+        display: block;
+        color: #fff;
+        margin: 10px;
+        font-size: 30px;
+        cursor: pointer;
+    }
+
+    .nav-links ul {
+        padding: 30px;
+    }
+    
+} 
 
 
 
