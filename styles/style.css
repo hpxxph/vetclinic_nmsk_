@@ -1,0 +1,10 @@
+@import url(/aLotOff/vetclinic_proj/styles/variables.css);
+@import url(/aLotOff/vetclinic_proj/styles/media.css);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
