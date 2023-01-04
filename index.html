@@ -9,7 +9,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-    <!-- <link rel="stylesheet" href="/aLotOff/vetclinic_proj/scripts/app.js"> -->
     <title>VetClinic-nmsk</title>
 </head>
 <body>
@@ -20,17 +19,23 @@
 
             <nav class="nav">
                 <a href="index.html"><img src="/aLotOff/vetclinic_proj/public/images/logo.png" class="logo"></a>
+
                 <div class="nav-links" id="navLinks">
-                    <i class='bx bx-window-close' onclick="hideMenu()"></i>  
+
+                    <!-- <i class='bx bx-window-close' onclick="hideMenu()"></i>     -->
+                    <i class='bx bxs-door-open bx-flip-vertical' onclick="hideMenu()"></i>
+
                     <ul>
                         <li><a href="#">HOME</a></li>
                         <li><a href="#">ABOUT</a></li>
                         <li><a href="#">BLOG</a></li>
+                        <li><a href="#">COURSE</a></li>
                         <li><a href="#">CONTACT</a></li>
                     </ul>
                 </div>
 
                 <i class='bx bx-menu' onclick="showMenu()"></i> 
+
             </nav>
 
             <div class="text-box">
@@ -46,9 +51,10 @@
 
     </div>
 
+    <script src="/aLotOff/vetclinic_proj/scripts/app.js"></script> 
 
-    <script src="/aLotOff/vetclinic_proj/scripts/app.js"></script>
-   
+
+ 
 
 </body>
 </html>
