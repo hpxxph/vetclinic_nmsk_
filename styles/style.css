@@ -171,6 +171,7 @@ h3 {
 
 .animals-photo {
     height: 450px;
+    display: block;
 }
 
 .layer {
