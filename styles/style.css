@@ -180,10 +180,27 @@ h3 {
     position: absolute;
     top: 0;
     left: 0;
-    color: #fff;
 }
 
 .layer:hover {
     background: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7));
     transition: 0.3s;
+}
+
+.layer h3 {
+    width: 100%;
+    font-weight: 500;
+    color: #fff;
+    font-size: 26px;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    position: absolute;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.layer:hover h3 {
+    bottom: 49%;
+    opacity: 1;
 }
