@@ -226,3 +226,12 @@ h3 {
 .work-place img {
     border-radius: 15px;
 }
+
+.work-place p {
+    padding: 0;
+}
+
+.work-place h3 {
+    margin-top: 16px;
+    margin-bottom: 15px;
+}
