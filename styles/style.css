@@ -205,3 +205,24 @@ h3 {
     bottom: 49%;
     opacity: 1;
 }
+
+.work-place {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.work-place-png {
+    height: 330px;
+}
+
+.work-place-col {
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+}
+
+.work-place img {
+    border-radius: 15px;
+}
