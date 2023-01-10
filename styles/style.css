@@ -19,7 +19,7 @@ li {
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/back_2.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/generall-back.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -316,7 +316,7 @@ h3 {
 .sub-header {
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/back_2.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/back21.jpg);
     background-position:center;
     background-size: cover;
     text-align: center;
@@ -359,6 +359,20 @@ h3 {
 
 .red-btn:hover {
     color: #fff;
+}
+
+.sub-second-header {
+    height: 50vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/back44.jpg);
+    background-position:center;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+}
+
+.sub-second-header h1 {
+    margin-top: 100px;
 }
 
 .location {
@@ -410,5 +424,4 @@ h3 {
     outline: none;
     border: 1px solid #ccc;
     box-sizing: border-box;
-    
 }
