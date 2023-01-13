@@ -5,7 +5,7 @@ $visitor_email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$email_from  = 'macnzr123@icloud.com'; 
+$email_from  = 'vetclini@outbook.com'; 
 
 $email_subject = 'New form Submission'
 
@@ -25,3 +25,4 @@ mail($to, $email_subject, $email_body, $headers);
 header("Location: contact.html");
 
 ?>
+

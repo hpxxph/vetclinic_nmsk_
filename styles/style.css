@@ -24,6 +24,10 @@ li {
     position: relative;
 }
 
+.header-color {
+    color: #22daea;
+}
+
 .nav {
     display: flex;
     padding: 2% 6%;
