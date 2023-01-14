@@ -286,7 +286,7 @@ h3 {
 .cta {
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.1)), url(/aLotOff/vetclinic_proj/public/images/bg-cl.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.1)), url(/aLotOff/vetclinic_proj/public/images/vet2134.png);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -357,9 +357,9 @@ h3 {
 }
 
 .red-btn {
-    border: 1px solid #f44336;
+    border: 1px solid #22daea;
     background: transparent;
-    color: #f44336;
+    color: black;
 }
 
 .red-btn:hover {
