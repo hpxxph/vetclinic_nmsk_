@@ -7,3 +7,4 @@ function hideMenu() {
 function showMenu() {
     navLinks.style.right = "0";
 }
+
