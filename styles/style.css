@@ -8,7 +8,9 @@
 
 
 a {
-    text-decoration: none;  
+    text-decoration: none; 
+    color: #22daea;
+    font-weight: 500;
 }
 
 li {
@@ -18,7 +20,7 @@ li {
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/generall-back.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/vettt.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -159,7 +161,7 @@ h3 {
 
 
 .vetclinic {
-    width: 80%;
+    width: 75%;
     margin: auto;
     text-align: center;
     padding-top: 50px;
