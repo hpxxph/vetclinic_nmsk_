@@ -7,9 +7,13 @@
     /* font-family: 'Allerta', sans-serif; */
     /* font-family: 'Crete Round', serif; */
     /* font-family: 'Do Hyeon', sans-serif; */
-    font-family: 'Roboto Mono', monospace;
     /* font-family: 'Sora', sans-serif; */
-}
+    /* font-family: 'Allerta', sans-serif; */
+    /* font-family: 'Crete Round', serif; */
+    font-family: 'Do Hyeon', sans-serif;
+    /* font-family: 'Roboto Mono', monospace; */
+    /* font-family: 'Sora', sans-serif; */
+    }
 
 
 a {
@@ -29,6 +33,7 @@ li {
     background-position: center;
     background-size: cover;
     position: relative;
+    font-family: 'Do Hyeon', sans-serif;
 }
 
 .header-color {
