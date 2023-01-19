@@ -3,12 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* font-family: 'Poppins', sans-serif;   */
-    /* font-family: 'Allerta', sans-serif; */
-    /* font-family: 'Crete Round', serif; */
-    /* font-family: 'Do Hyeon', sans-serif; */
     font-family: 'Roboto Mono', monospace;
-    /* font-family: 'Sora', sans-serif; */
 }
 
 
@@ -182,6 +177,7 @@ h3 {
 
 .animals-photo {
     height: 450px;
+    /* width: 450px; */
     display: block;
 }
 
@@ -291,7 +287,7 @@ h3 {
 .cta {
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.1)), url(/aLotOff/vetclinic_proj/public/images/vet2134.png);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.1)), url(/aLotOff/vetclinic_proj/public/images/contact-back.png);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -326,11 +322,11 @@ h3 {
 .sub-header {
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/back21.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/IMAGE\ 2023-01-19\ 14:21:45.jpg);
     background-position:center;
     background-size: cover;
     text-align: center;
-     color: #fff;
+    color: #fff;
 }
 
 .sub-header h1 {
