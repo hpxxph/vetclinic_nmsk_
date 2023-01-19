@@ -281,7 +281,7 @@ h3 {
 }
 
 .testimonial-col .bx {
-    color: #f44336;
+    color: #22daea;
 }
 
 .cta {
@@ -322,7 +322,7 @@ h3 {
 .sub-header {
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/IMAGE\ 2023-01-19\ 14:21:45.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/vettt.jpg);
     background-position:center;
     background-size: cover;
     text-align: center;
