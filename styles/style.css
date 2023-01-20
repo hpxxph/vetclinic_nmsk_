@@ -432,11 +432,13 @@ h3 {
     box-sizing: border-box;
 }
 
+.like-footer {
+    background: #111;
+    color: #fff;
+    height: auto;
+    width: 100vw;
+    padding-top: 40px;
 
-/* new struct for footer */
 
-/* .section-footer {
-  
-} */
-
-.footer
+    
+}
