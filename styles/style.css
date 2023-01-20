@@ -256,7 +256,8 @@ h3 {
     border-radius: 10px;
     margin-bottom: 5%;
     text-align: left;
-    background: #fff3f3;
+    /* background: #fff3f3; */
+    background: #ccc;
     padding: 25px;
     cursor: pointer;
     display: flex;
@@ -506,5 +507,5 @@ h3 {
     text-transform: uppercase;
     opacity: .4;
     font-weight: 200;
-    
+
 }
