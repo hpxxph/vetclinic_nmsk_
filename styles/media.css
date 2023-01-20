@@ -30,10 +30,9 @@
     }
 
     .nav-links ul {
-        padding: 30px;
+        padding: 35px;
     }
 }
-
 
 @media(max-width: 700px) {
 
