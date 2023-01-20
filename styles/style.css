@@ -127,7 +127,7 @@ h1 {
 
 p {
     color: #777;
-    font-size: 14px;
+    font-size: 19px;
     font-weight: 300;
     line-height: 22px;
     padding: 10px;
@@ -507,5 +507,4 @@ h3 {
     text-transform: uppercase;
     opacity: .4;
     font-weight: 200;
-
 }
