@@ -20,7 +20,7 @@ li {
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/vettt.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/pexels-gustavo-fring-6816838.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -287,7 +287,7 @@ h3 {
 .cta {
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.1)), url(/aLotOff/vetclinic_proj/public/images/contact-back.png);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.1)), url(/aLotOff/vetclinic_proj/public/images/pexels-gustavo-fring-6816851.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -322,7 +322,7 @@ h3 {
 .sub-header {
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/vettt.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/Снимок\ экрана\ 2023-01-19\ в\ 18.39.06.png);
     background-position:center;
     background-size: cover;
     text-align: center;
@@ -370,7 +370,7 @@ h3 {
 .sub-second-header {
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/contact-back.png);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/Снимок\ экрана\ 2023-01-19\ в\ 18.39.06.png);
     background-position:center;
     background-size: cover;
     text-align: center;
