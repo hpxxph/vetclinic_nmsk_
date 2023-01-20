@@ -3,7 +3,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Roboto Mono', monospace;
+    /* font-family: 'Roboto Mono', monospace; */
+    font-family: 'Bree Serif', serif;
+    font-family: 'Chivo', sans-serif;
 }
 
 
@@ -38,7 +40,7 @@ li {
 }
 
 .logo {
-    height: 60px;
+    height: 72px;
 }
 
 .nav-links {
@@ -127,7 +129,7 @@ h1 {
 
 p {
     color: #777;
-    font-size: 19px;
+    font-size: 17px;
     font-weight: 300;
     line-height: 22px;
     padding: 10px;
@@ -508,4 +510,3 @@ h3 {
     opacity: .4;
     font-weight: 200;
 }
-
