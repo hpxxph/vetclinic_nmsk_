@@ -64,3 +64,34 @@
     }
 }
 
+
+@media (max-width: 700px) {
+
+    .about-me {
+        width: 80%;
+        margin: auto;
+        padding-top: 80px;
+        padding-bottom: 50px;
+    }
+    
+    .about-r {
+        flex-basis: 48%;
+        padding: 30px 2px;
+    }
+    
+    .about-r img {
+        height: 400px;
+        margin: 0;
+    }
+    
+    .about-r h1 {
+        padding-top: 0; 
+    }
+    
+    .about-r p {
+        padding: 15px 0 25px;
+    
+    
+    }
+
+}
