@@ -1,7 +1,7 @@
 @media(max-width: 700px) {
 
     .text-box h1 {
-        font-size: 30px;
+        font-size: 55px;
     }
 
     .nav-links ul li {
@@ -94,5 +94,3 @@
     }
 
 }
-
-
