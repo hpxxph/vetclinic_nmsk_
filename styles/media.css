@@ -6,6 +6,7 @@
 
     .nav-links ul li {
         display: block;
+        
     }
 
     .nav-links {
@@ -56,13 +57,6 @@
         font-size: 24px;
     }
 }
-
-/* @media screen and (max-width: 700px) {
-    .teams{
-        max-width: 100%;
-
-    }
-} */
 
 @media (max-width: 700px) {
 
