@@ -21,7 +21,7 @@ li {
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/vettt.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(../styles/images/vettt.jpg); 
     background-position: center;
     background-size: cover;
     position: relative;
@@ -289,7 +289,7 @@ h3 {
 .cta {
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.1)), url(/aLotOff/vetclinic_proj/public/images/pexels-gustavo-fring-6816851.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.1)), url(../styles/images/vet2134.png);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -304,8 +304,6 @@ h3 {
 } 
 
 
-
-
 .icons-link {
     color: black;
     font-size: 24px;
@@ -315,7 +313,7 @@ h3 {
 .sub-header {
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/vettt.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(../styles/images/vettt.jpg);
     background-position:center;
     background-size: cover;
     text-align: center;
@@ -369,7 +367,7 @@ h3 {
 .sub-second-header {
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/aLotOff/vetclinic_proj/public/images/vettt.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(../styles/images/vettt.jpg);
     background-position:center;
     background-size: cover;
     text-align: center;
